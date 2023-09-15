@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+:root {
+font-family: Orbitron;
+}
+
+span {
+font-weight: bold;
+}
+
+h1 {
+font-size: 50px;
+letter-spacing: 10px;
+text-align: center;
+text-transform: capitalize;
+text-decoration: underline;
+text-underline-position: below;
+}
+
+.series-movies {
+font-size: 20px;
+}
+
+h2 {
+font-size: 2em;
+}
+
+li {
+    word-spacing: 2;
+}
+
+.characters {
+font-size: 18px;
+}
+
+h4 {
+font-size: 15px;
+}
